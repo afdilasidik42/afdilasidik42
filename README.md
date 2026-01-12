@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Nopir%20Ganteng&fontSize=70&animation=fadeIn&fontAlignY=38&theme=dark" width="100%" />
 
-# "Caffeine + Nicotine = Error fixed" ☕🚬
+### Caffeine + Nicotine = Error fixed
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&no-frame=true&column=7&margin-w=15" alt="trophies" />
