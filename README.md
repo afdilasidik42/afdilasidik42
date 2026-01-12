@@ -2,6 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/afdilasidik42/afdilasidik42/main/image/github-header-banner.png" width="100%" />
 
+<br>
+<br>
+
 <p align="center">
   <a href="https://www.instagram.com/afdilasidik_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/afdilasidik/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -19,11 +22,11 @@
 
 ## ✨ About Me
 
-🚀 **Student & Aspiring Fullstack Developer**
-🎓 Currently pursuing a degree in Computer Engineering.
-💡 Focused on deepening my knowledge in the **Fullstack Development** ecosystem.
-🛠️ Building personal projects to create a strong portfolio.
-🌐 Outside of coding, I enjoy sports, reading comics, and playing games.
+🚀 **Student & Aspiring Fullstack Developer** <br>
+🎓 Currently pursuing a degree in Computer Engineering. <br>
+💡 Focused on deepening my knowledge in the **Fullstack Development** ecosystem.<br>
+🛠️ Building personal projects to create a strong portfolio.<br>
+🌐 Outside of coding, I enjoy sports, reading comics, and playing games.<br>
 
 ---
 
