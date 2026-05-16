@@ -16,20 +16,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=79D7FC&center=true&vCenter=true&width=435&lines=Happy+Coding+Bray!;Nnopir+Was+Here;Error+Fixed+with+Coffee+and+Cigz" />
 </div>
 
----
-
-<div align="center">
-
-## ✨ About Me
-
-🚀 **Student & Aspiring Fullstack Developer** <br>
-🎓 Currently pursuing a degree in Computer Engineering. <br>
-💡 Focused on deepening my knowledge in the **Fullstack Development** ecosystem.<br>
-🛠️ Building personal projects to create a strong portfolio.<br>
-🌐 Outside of coding, I enjoy sports, reading comics, and playing games.<br>
-
----
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=afdilasidik42&theme=tokyonight&hide_border=true&area=true&line=79d7fc&point=c9d1d9" width="100%" />
 </p>
